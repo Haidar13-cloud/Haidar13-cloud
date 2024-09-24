@@ -1,3 +1,5 @@
+![alt text](https://github.com/kylecorry31/Trail-Sense/blob/main/site/images/Main.png?raw=true)
+
 **Definisi**
 
 Trail Sense adalah sebuah alat, dan seperti alat lain yang Anda bawa ke alam liar, penting untuk memiliki peralatan dan keterampilan cadangan.
@@ -41,5 +43,6 @@ Jadwalkan alarm yang tepat
 
 
 **source**
+
 ### https://github.com/kylecorry31/Trail-Sense
 
