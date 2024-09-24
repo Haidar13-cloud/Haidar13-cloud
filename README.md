@@ -29,18 +29,14 @@ Waspadalah sebelum matahari terbenam
 Memprediksi cuaca
 Gunakan ponsel Anda sebagai senter
 
+
 **Kegunaan trail sense**
 
 Pemberitahuan Post 
-
 Akses lokasi halus
-
 akses Lokasi latar belakang
-
 pengenalan aktivitas
-
 Kamera
-
 Jadwalkan alarm yang tepat
 
 
