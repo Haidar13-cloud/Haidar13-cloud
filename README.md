@@ -32,12 +32,18 @@ Gunakan ponsel Anda sebagai senter
 **Kegunaan trail sense**
 
 Pemberitahuan Post 
+
 Akses lokasi halus
-akses Lokasi latar belakang 
+
+akses Lokasi latar belakang
+
 pengenalan aktivitas
+
 Kamera
+
 Jadwalkan alarm yang tepat
 
+
 **source**
-## https://github.com/kylecorry31/Trail-Sense
+### https://github.com/kylecorry31/Trail-Sense
 
