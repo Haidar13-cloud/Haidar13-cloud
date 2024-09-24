@@ -31,8 +31,8 @@ Gunakan ponsel Anda sebagai senter
 
 **Kegunaan trail sense**
 
-PEMBERITAHUAN POST Pemberitahuan Post 
-AKSES LOKASI HALUS / AKSES LOKASI KASAR
+Pemberitahuan Post 
+Akses lokasi halus
 akses Lokasi latar belakang 
 pengenalan aktivitas
 Kamera
