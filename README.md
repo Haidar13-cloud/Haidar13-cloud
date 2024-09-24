@@ -1,4 +1,4 @@
-![super-necessary](https://github.com/kylecorry31/Trail-Sense/blob/main/site/images/Main.png?raw=true|width=50px)
+![super-necessary](https://github.com/kylecorry31/Trail-Sense/blob/main/site/images/Main.png?raw=true|width=1px)
 
 **Definisi**
 
