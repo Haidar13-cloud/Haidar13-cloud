@@ -1,4 +1,4 @@
-![alt text] (https://github.com/kylecorry31/Trail-Sense/blob/main/site/images/Main.png?raw=true)
+![Alt text](https://github.com/kylecorry31/Trail-Sense/blob/main/site/images/Main.png?raw=true)
 
 **Definisi**
 
