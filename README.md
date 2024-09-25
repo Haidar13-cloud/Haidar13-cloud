@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/6d1cc7a5-39b5-41c2-b1a9-efcf5956f771)
 
-![image](https://github.com/user-attachments/assets/4621e04f-1a20-4c06-876d-86461fe5fb12)
+![image](https://github.com/user-attachments/assets/44884327-9f1e-4324-bfd9-511b6b009a28)
+
 
 ![image](https://github.com/user-attachments/assets/345057a2-adf6-417c-b087-3a690150ee6b)
 
@@ -42,13 +43,13 @@ Gunakan ponsel Anda sebagai senter
 
 Pemberitahuan Post 
 Akses lokasi halus
-akses Lokasi latar belakang
+akses lokasi latar belakang
 pengenalan aktivitas
 Kamera
 Jadwalkan alarm yang tepat
 
 
-**source**
+**Source**
 
 ### https://github.com/kylecorry31/Trail-Sense
 
