@@ -29,8 +29,7 @@ Fitur harus didasarkan pada ilmu pengetahuan yang ditinjau sejawat atau diverifi
 
 **Fitur trail sense diantranya**
 
-Dirancang untuk hiking, backpacking, berkemah, dan geocaching
-Tempatkan suar dan navigasikan ke sana
+Dirancang untuk hikingbackpacking, berkemah, dan geocaching
 Ikuti jalur
 Telusuri kembali langkah Anda dengan backtrack
 Gunakan foto sebagai peta
