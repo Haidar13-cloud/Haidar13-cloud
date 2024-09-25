@@ -10,7 +10,7 @@
 
 
 
-**Definisi**
+### **Definisi**
 
 Trail Sense adalah sebuah alat, dan seperti alat lain yang Anda bawa ke alam liar, penting untuk memiliki peralatan dan keterampilan cadangan.
 Peta jalan fitur merupakan garis besar sementara dari fitur-fitur utama yang direncanakan akan diselesaikan tahun depan. Fitur-fitur yang lebih kecil mungkin akan diimplementasikan di antaranya:
@@ -22,7 +22,7 @@ Pasang surut harmonis,
 Bereksperimen dengan plugin pertama (Komunikasi)
 
 
-**sasaran trail sense:**
+### **sasaran trail sense:**
 
 Trail Sense tidak boleh menggunakan Internet dengan cara apa pun, karena saya ingin seluruh aplikasi dapat digunakan saat tidak ada koneksi Internet
 Fitur harus memberikan beberapa manfaat kepada orang yang menggunakan aplikasi saat mendaki, dalam situasi bertahan hidup, dll.
@@ -31,7 +31,7 @@ Fitur harus didasarkan pada ilmu pengetahuan yang ditinjau sejawat atau diverifi
 
 
 
-**Fitur trail sense diantranya:**
+### **Fitur trail sense diantranya:**
 
 Dirancang untuk hiking, backpacking, berkemah, dan geocaching,
 Ikuti jalur,
@@ -44,7 +44,7 @@ sebagai senter,
 
 
 
-**Kegunaan trail sense:**
+### **Kegunaan trail sense:**
 
 Pemberitahuan Post,
 Akses lokasi halus,
@@ -54,6 +54,6 @@ Kamera,
 Jadwalkan alarm yang tepat,
 
 
-**Source:**
+### **Source:**
 ### https://github.com/kylecorry31/Trail-Sense
 
