@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/6d1cc7a5-39b5-41c2-b1a9-efcf5956f771)
 
+
 ![image](https://github.com/user-attachments/assets/44884327-9f1e-4324-bfd9-511b6b009a28)
 
 
@@ -29,23 +30,34 @@ Fitur harus didasarkan pada ilmu pengetahuan yang ditinjau sejawat atau diverifi
 
 **Fitur trail sense diantranya**
 
-Dirancang untuk hikingbackpacking, berkemah, dan geocaching
+Dirancang untuk hiking, backpacking, berkemah, dan geocaching
 Ikuti jalur
+
 Telusuri kembali langkah Anda dengan backtrack
+
 Gunakan foto sebagai peta
+
 Rencanakan apa yang akan dikemas
+
 Waspadalah sebelum matahari terbenam
+
 Memprediksi cuaca
-Gunakan ponsel Anda sebagai senter
+
+sebagai senter
 
 
 **Kegunaan trail sense**
 
 Pemberitahuan Post 
+
 Akses lokasi halus
+
 akses lokasi latar belakang
+
 pengenalan aktivitas
+
 Kamera
+
 Jadwalkan alarm yang tepat
 
 
