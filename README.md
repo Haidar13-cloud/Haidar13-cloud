@@ -1,3 +1,5 @@
+**TRAIL-SENSE**
+
 ![image](https://github.com/user-attachments/assets/6d1cc7a5-39b5-41c2-b1a9-efcf5956f771)
 
 
@@ -11,12 +13,12 @@
 **Definisi**
 
 Trail Sense adalah sebuah alat, dan seperti alat lain yang Anda bawa ke alam liar, penting untuk memiliki peralatan dan keterampilan cadangan.
-Peta jalan fitur merupakan garis besar sementara dari fitur-fitur utama yang direncanakan akan diselesaikan tahun depan. Fitur-fitur yang lebih kecil mungkin akan diimplementasikan di antaranya.
-peta jalan fitur
-Realitas tertambah
-Kustomisasi
-Stabilitas / kinerja
-Pasang surut harmonis
+Peta jalan fitur merupakan garis besar sementara dari fitur-fitur utama yang direncanakan akan diselesaikan tahun depan. Fitur-fitur yang lebih kecil mungkin akan diimplementasikan di antaranya:
+peta jalan fitur,
+Realitas tertambah,
+Kustomisasi,
+Stabilitas / kinerja,
+Pasang surut harmonis,
 Bereksperimen dengan plugin pertama (Komunikasi)
 
 
@@ -31,25 +33,25 @@ Fitur harus didasarkan pada ilmu pengetahuan yang ditinjau sejawat atau diverifi
 
 **Fitur trail sense diantranya:**
 
-Dirancang untuk hiking, backpacking, berkemah, dan geocaching
-Ikuti jalur
-Telusuri kembali langkah Anda dengan backtrack
-Gunakan foto sebagai peta
-Rencanakan apa yang akan dikemas
-Waspadalah sebelum matahari terbenam
-Memprediksi cuaca
-sebagai senter
+Dirancang untuk hiking, backpacking, berkemah, dan geocaching,
+Ikuti jalur,
+Telusuri kembali langkah Anda dengan backtrack,
+Gunakan foto sebagai peta,
+Rencanakan apa yang akan dikemas,
+Waspadalah sebelum matahari terbenam,
+Memprediksi cuaca,
+sebagai senter,
 
 
 
 **Kegunaan trail sense:**
 
-Pemberitahuan Post 
-Akses lokasi halus
-akses lokasi latar belakang
-pengenalan aktivitas
-Kamera
-Jadwalkan alarm yang tepat
+Pemberitahuan Post,
+Akses lokasi halus,
+akses lokasi latar belakang,
+pengenalan aktivitas,
+Kamera,
+Jadwalkan alarm yang tepat,
 
 
 **Source:**
