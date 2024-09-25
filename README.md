@@ -1,4 +1,6 @@
-![Alt text](https://github.com/kylecorry31/Trail-Sense/blob/main/site/images/Main.png?raw=true)
+![image](https://github.com/user-attachments/assets/6d1cc7a5-39b5-41c2-b1a9-efcf5956f771)
+![image](https://github.com/user-attachments/assets/4621e04f-1a20-4c06-876d-86461fe5fb12)
+
 
 **Definisi**
 
